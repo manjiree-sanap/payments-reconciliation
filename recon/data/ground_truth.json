@@ -1,0 +1,20 @@
+{
+  "timing": {
+    "reference": "TXN-0500",
+    "amount": "4250.00",
+    "settled": "2026-11-02"
+  },
+  "rounding": {
+    "rows": 200,
+    "drift": "-1.000"
+  },
+  "duplicate": {
+    "reference": "TXN-0210",
+    "amount": "2634.45"
+  },
+  "orphan_refund": {
+    "reference": "RFD-0013",
+    "original": "TXN-90001",
+    "amount": "-75.50"
+  }
+}
